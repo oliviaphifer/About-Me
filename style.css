@@ -75,12 +75,12 @@ section{
 aside img{
   display: inline;
   float: right;
-  margin: -270px 20px 0px 0px;
+  margin: -230px 20px 0px 0px;
 }
 
 img{
   height: 250px;
-  border: 1px solid black;
+  border: 2px solid black;
   padding: 10px;
 }
 
